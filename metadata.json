@@ -1,0 +1,6 @@
+{
+  "name": "ABC Tiling Kent",
+  "description": "Professional tiling specialists covering Greenhithe, Dartford, Gravesend, Longfield, Bean, New Barn and surrounding areas in Kent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
